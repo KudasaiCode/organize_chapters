@@ -1,2 +1,2 @@
 # organize_chapters
-Creates volume of individual chapters
+I use python to enter a zip files with images and organize them into indidvidual folders
